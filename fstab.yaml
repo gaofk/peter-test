@@ -1,5 +1,5 @@
 mountpoints:
   /: 
-    url: "https://author-p143215-e1479755.adobeaemcloud.com/content/nissan/jp/ja/vehicles/new/d_test.html"
+    url: "https://author-p143215-e1479755.adobeaemcloud.com/content/nissan/jp/ja/vehicles/new/"
     type: "markup"
     suffix: ".html"
