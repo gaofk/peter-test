@@ -1,5 +1,2 @@
 mountpoints:
-  /: 
-    url: "https://author-p143215-e1479755.adobeaemcloud.com/content/nissan/jp/ja/vehicles/new/"
-    type: "markup"
-    suffix: ".html"
+  /: https://drive.google.com/drive/folders/1OB03KYubT8fzxuuIylripb2QHoP5aseA
